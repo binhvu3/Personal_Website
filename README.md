@@ -15,7 +15,7 @@
 
 Quickes way to deploy this repo - 
 
-[![Deploy To Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/DatDoDev/website)
+[![Deploy To Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/DatDoDev/wesbite)
 
 
 ### How To Contribute - 
