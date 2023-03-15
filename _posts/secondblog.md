@@ -1,6 +1,6 @@
 ---
 date: '2022-07-08T11:50:54.000Z'
-title: New York Trip
+title: New York Trip (Incomplete)
 tagline: This is a Tagline If you want to add.
 preview: >-
   Lorem Ipsum is simply dummy text of the printing and typesetting industry.
