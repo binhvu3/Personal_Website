@@ -7,7 +7,7 @@ This is a repo for my website. Check it out! Link below.
 
 ## Run DEV Server
 
-***Visit: https://nextjs.org/docs/getting-started/installation ***
+***Visit: https://nextjs.org/docs/getting-started/installation***
 
 1.    Run npm run dev to start the development server.
 2.    Visit http://localhost:3000 to view your application.
